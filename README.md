@@ -28,6 +28,5 @@ Here's a walkthrough of implemented user stories:
 
 
 ## Notes
-Blank photos are due to using the wrong file upload command.
 Constraints plagued me this assignment and never behaved.  It was quite
 frustrating.
